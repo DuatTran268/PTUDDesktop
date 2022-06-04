@@ -1,0 +1,11 @@
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.FoodForm.resources
